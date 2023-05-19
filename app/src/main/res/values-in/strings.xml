@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login">Masuk</string>
+    <string name="title_register">Daftar</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Nama Kamu</string>
+    <string name="prompt_password">Kata Sandi</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_register">Daftar</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="action_logout">Keluar</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="invalid_email">Bukan email valid</string>
+    <string name="invalid_password">Kata sandi harus > 8 huruf</string>
+    <string name="invalid_name">Nama harus > 3 huruf</string>
+    <string name="login_failed">Gagal Masuk</string>
+    <string name="register_failed">Gagal Daftar</string>
+    <string name="register_success">Daftar Berhasil</string>
+    <string name="log_out">Keluar</string>
+    <string name="action_loading">Sedang Memuat...</string>
+    <string name="action_gallery">Galeri</string>
+    <string name="action_camera">Kamera</string>
+    <string name="action_upload">Unggah</string>
+    <string name="hint_enter_description">Masukkan Deskripsi</string>
+    <string name="action_upload_story_page">Halaman Unggah Story</string>
+    <string name="action_uploading_story">Mengunggah Story...</string>
+    <string name="action_sign_in_loading">Sedang Masuk...</string>
+    <string name="action_register_loading">Sedang Mendaftar...</string>
+    <string name="action_post_story">Unggah Story</string>
+    <string name="action_insert_image">Tolong Pilih Gambar atau Ambil Gambar</string>
+    <string name="action_empty_list">Gagal memuat Story. Cek koneksi anda</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="story_picture">Foto Story</string>
+    <string name="title_activity_story_maps">StoryMapsActivity</string>
+    <string name="action_maps_story_activity">activity maps</string>
+</resources>

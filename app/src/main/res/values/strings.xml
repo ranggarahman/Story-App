@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Story App V2</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Your Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_logout">Log Out</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_password">Password must be > 8 characters</string>
+    <string name="invalid_name">Name must be > 3 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="register_failed">Registration Failed!</string>
+    <string name="register_success">Registration Successful!</string>
+    <string name="log_out">Log Out</string>
+    <string name="action_loading">Loading...</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_upload">Upload</string>
+    <string name="hint_enter_description">Enter Description</string>
+    <string name="action_upload_story_page">Upload Story Page</string>
+    <string name="action_uploading_story">Uploading Story...</string>
+    <string name="action_sign_in_loading">Signing in...</string>
+    <string name="action_register_loading">Registering...</string>
+    <string name="action_post_story">Post Story</string>
+    <string name="action_insert_image">Please Select an Image or Take a Picture</string>
+    <string name="action_empty_list">Failed to fetch stories. Bad Connection?</string>
+    <string name="retry">Retry</string>
+    <string name="story_picture">Story Picture</string>
+    <string name="title_activity_story_maps">StoryMapsActivity</string>
+    <string name="action_maps_story_activity">maps activity</string>
+    <string name="action_toggle_location">toggle location</string>
+</resources>
