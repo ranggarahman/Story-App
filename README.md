@@ -22,7 +22,7 @@ Story App uses the proprietary story API provided by Dicoding, documented [here]
 Story App uses GitHub Actions to implement continous integration. The tests being run [here](https://github.com/ranggarahman/Story-App/actions) includes running Unit Tests and Generating the APK to check for a successful build.
 
 ## Architecture 👷🏻
-**PlayPal** is based on the MVVM Architecture, which is based on [Google's official architecture guidelines](https://developer.android.com/topic/architecture).
+**PlayPal** is based on the Clean Architecture, which is based on [Google's official architecture guidelines](https://developer.android.com/topic/architecture).
 
 Here is the illustration of how Clean Architecture is implemented in Story App:
 
